@@ -1,6 +1,6 @@
 # 🚀 POCO X6 - Pre-Launch Landing Page
 
-[Preview do Projeto](https://desenvolvimento15.github.io/live-poco-x6/)
+[Preview do Projeto](https://herbertis.github.io/pre-lancamento-poco-x6/)
 
 ## 💻 Sobre o Projeto
 
